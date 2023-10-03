@@ -1,0 +1,18 @@
+/* for making changes in text properties in id html */
+#html {
+  text-align: right;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+
+/* for making changes in text properties in id css  */
+#css {
+  text-align: justify;
+  color: red;
+}
+
+/* for making changes in text properties in id js */
+#js {
+  color: green;
+  text-transform: capitalize;
+}
